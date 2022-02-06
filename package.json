@@ -1,0 +1,14 @@
+{
+	"name": "update-bonus",
+	"version": "1.0.0",
+	"description": "Bonus Calculator",
+	"main": "app.js",
+	"scripts": {
+		"dev": "nodemon app.js"
+	},
+	"author": "Damian Strout",
+	"license": "ISC",
+	"dependencies": {
+		"nodemon": "^2.0.15"
+	}
+}
