@@ -4,11 +4,13 @@
 	"description": "Bonus Calculator",
 	"main": "app.js",
 	"scripts": {
-		"dev": "nodemon app.js"
+		"dev": "nodemon server.js"
 	},
 	"author": "Damian Strout",
 	"license": "ISC",
 	"dependencies": {
+		"ejs": "^3.1.6",
+		"express": "^4.17.2",
 		"nodemon": "^2.0.15"
 	}
 }
